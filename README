@@ -1,0 +1,7 @@
+1. /newservice
+2. Send message "Название сервиса" and wait custom message
+3. send message "У вас есть пароль" and клавиатура (да/нет)  and wait keyboard message
+4 если да, send message "Впишите свой пароль"  and wait custom message
+5 если нет, send message "Выберите количество символов" and клавиатура (8/16/32) and wait keyboard message
+5.1 send message "Выберите алфавит" and клавиатура (eng/rus) and wait keyboard message
+6. Сохранение и вывод об успехе
